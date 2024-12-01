@@ -1,0 +1,14 @@
+main: com.fallenangel.login.Main
+name: LoginAuth
+version: '1.0'
+description: a minecraft login
+commands:
+ reg:
+  description:
+  usage:
+ log:
+  description:
+  usage:
+ 2fa:
+  description:
+  usage:
